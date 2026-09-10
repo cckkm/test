@@ -1,0 +1,2 @@
+# Synthetic credential for controlled latency measurement; never issued by a service.
+api_key = "sk-5f73ee517cf83de0ea7d8742f0a0ed2088b04b31"
